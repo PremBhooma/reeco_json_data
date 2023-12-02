@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chicken Breast Fillets, Boneless matuumaMarinated 6 Ounce Raw, Invivid",
+      "image": "https://i.postimg.cc/kDrm10sB/Avocado-Hass.jpg",
+      "brand": "Hormel Black Labelmany",
+      "price": 60.67,
+      "quantity": 0,
+      "total": 0,
+      "status": "",
+      "editPopupOpen": false
+    },
+    {
+      "id": 2,
+      "name": "Chicken Breast Fillets, Boneless matuumaMarinated 6 Ounce Raw, Invivid",
+      "image": "https://i.postimg.cc/kDrm10sB/Avocado-Hass.jpg",
+      "brand": "Hormel Black Labelmany",
+      "price": 60.67,
+      "quantity": 0,
+      "total": 0,
+      "status": "",
+      "editPopupOpen": false
+    }
+  ]
+}
